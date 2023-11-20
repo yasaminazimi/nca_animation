@@ -1,4 +1,4 @@
-name: nca
+name: nca-tf
 channels:
   - conda-forge
   - defaults

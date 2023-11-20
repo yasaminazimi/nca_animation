@@ -1,0 +1,23 @@
+name: nca-pt
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - tqdm
+  - pytorch
+  - torchvision
+  - cpuonly
+  - matplotlib
+  - seaborn
+  - altair
+  - jupyter
+  - jupyterlab
+  - ipywidgets
+  - black
+  - black-jupyter
